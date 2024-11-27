@@ -34,7 +34,7 @@
     "fast-glob": "~3.2.7",
     "find-up": "5.0.0",
     "inquirer": "~8.2.0",
-    "ora": "5.4.1",
+    "ora": "8.1.1",
     "pacote": "~12.0.2"
   },
   "devDependencies": {
