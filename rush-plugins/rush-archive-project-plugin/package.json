@@ -30,7 +30,7 @@
     "test": "heft test"
   },
   "dependencies": {
-    "@rushstack/node-core-library": "3.44.1",
+    "@rushstack/node-core-library": "5.10.0",
     "@rushstack/rush-sdk": "5.62.4",
     "inquirer": "~8.2.0",
     "ora": "5.4.1",
