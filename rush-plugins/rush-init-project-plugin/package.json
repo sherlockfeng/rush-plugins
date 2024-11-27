@@ -39,7 +39,7 @@
     "lilconfig": "~2.0.4",
     "lodash": "4.17.21",
     "node-plop": "0.26.3",
-    "ora": "5.4.1",
+    "ora": "8.1.1",
     "sort-package-json": "1.54.0",
     "tapable": "~2.2.1",
     "ts-node": "~10.4.0",
