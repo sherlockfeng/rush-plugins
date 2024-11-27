@@ -43,7 +43,7 @@
     "sort-package-json": "1.54.0",
     "tapable": "~2.2.1",
     "ts-node": "~10.4.0",
-    "validate-npm-package-name": "~3.0.0"
+    "validate-npm-package-name": "~6.0.0"
   },
   "devDependencies": {
     "@rushstack/eslint-config": "2.4.5",
