@@ -33,7 +33,7 @@
     "@rushstack/node-core-library": "3.44.1",
     "@rushstack/rush-sdk": "5.62.4",
     "inquirer": "~8.2.0",
-    "ora": "5.4.1",
+    "ora": "8.1.1",
     "tar": "~6.1.11",
     "yargs": "~17.3.0"
   },
