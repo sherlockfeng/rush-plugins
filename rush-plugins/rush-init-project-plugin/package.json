@@ -35,7 +35,7 @@
     "commander": "~9.4.0",
     "handlebars-helpers": "~0.10.0",
     "inquirer": "~8.2.0",
-    "inquirer-autocomplete-prompt": "~1.4.0",
+    "inquirer-autocomplete-prompt": "~3.0.1",
     "lilconfig": "~2.0.4",
     "lodash": "4.17.21",
     "node-plop": "0.26.3",
