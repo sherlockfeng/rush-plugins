@@ -8,7 +8,7 @@
     "rush-init-project-plugin": "0.2.1",
     "rush-lint-staged-plugin": "0.1.2",
     "rush-sort-package-json": "0.0.3",
-    "rush-upgrade-self-plugin": "1.0.6",
+    "rush-upgrade-self-plugin": "1.1.2",
     "typescript": "4.4.2"
   }
 }
