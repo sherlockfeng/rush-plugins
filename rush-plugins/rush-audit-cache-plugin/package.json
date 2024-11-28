@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@rushstack/node-core-library": "3.44.1",
-    "@rushstack/rush-sdk": "5.62.4",
+    "@rushstack/rush-sdk": "5.141.3",
     "commander": "~9.4.0",
     "ignore": "5.1.9"
   },
