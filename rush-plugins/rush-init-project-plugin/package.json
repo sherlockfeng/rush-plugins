@@ -49,7 +49,7 @@
     "@rushstack/eslint-config": "2.4.5",
     "@rushstack/heft": "0.43.2",
     "@rushstack/heft-jest-plugin": "~0.1.53",
-    "@rushstack/heft-node-rig": "1.2.31",
+    "@rushstack/heft-node-rig": "2.6.43",
     "@types/ejs": "~3.1.1",
     "@types/heft-jest": "1.0.1",
     "@types/inquirer": "~8.1.3",
