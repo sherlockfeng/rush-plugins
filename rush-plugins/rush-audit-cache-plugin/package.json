@@ -29,7 +29,7 @@
     "@rushstack/node-core-library": "3.44.1",
     "@rushstack/rush-sdk": "5.62.4",
     "commander": "~9.4.0",
-    "ignore": "5.1.9"
+    "ignore": "7.0.0"
   },
   "devDependencies": {
     "@rushstack/eslint-config": "2.4.5",
