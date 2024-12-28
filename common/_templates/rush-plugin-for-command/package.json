@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@rushstack/node-core-library": "3.44.1",
-    "@rushstack/rush-sdk": "5.62.4"
+    "@rushstack/rush-sdk": "5.147.1"
   },
   "devDependencies": {
     "@rushstack/eslint-config": "2.4.5",
