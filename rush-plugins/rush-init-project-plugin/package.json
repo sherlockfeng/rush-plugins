@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@rushstack/node-core-library": "3.44.1",
-    "@rushstack/rush-sdk": "5.62.4",
+    "@rushstack/rush-sdk": "5.147.1",
     "chalk": "4.1.2",
     "commander": "~9.4.0",
     "handlebars-helpers": "~0.10.0",
