@@ -32,7 +32,7 @@
     "ignore": "5.1.9"
   },
   "devDependencies": {
-    "@rushstack/eslint-config": "2.4.5",
+    "@rushstack/eslint-config": "4.1.1",
     "@rushstack/heft": "0.43.2",
     "@rushstack/heft-node-rig": "1.2.31",
     "@types/heft-jest": "1.0.1",
