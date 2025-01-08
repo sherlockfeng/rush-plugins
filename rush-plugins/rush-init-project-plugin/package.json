@@ -46,7 +46,7 @@
     "validate-npm-package-name": "~3.0.0"
   },
   "devDependencies": {
-    "@rushstack/eslint-config": "2.4.5",
+    "@rushstack/eslint-config": "4.1.1",
     "@rushstack/heft": "0.43.2",
     "@rushstack/heft-jest-plugin": "~0.1.53",
     "@rushstack/heft-node-rig": "1.2.31",
