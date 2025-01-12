@@ -32,7 +32,7 @@
   "dependencies": {
     "@rushstack/node-core-library": "3.44.1",
     "@rushstack/rush-sdk": "5.62.4",
-    "inquirer": "~8.2.0",
+    "inquirer": "~12.3.1",
     "ora": "5.4.1",
     "tar": "~6.1.11",
     "yargs": "~17.3.0"
