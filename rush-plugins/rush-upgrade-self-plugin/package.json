@@ -33,7 +33,7 @@
     "@rushstack/rush-sdk": "5.62.4",
     "fast-glob": "~3.2.7",
     "find-up": "5.0.0",
-    "inquirer": "~8.2.0",
+    "inquirer": "~12.3.2",
     "ora": "5.4.1",
     "pacote": "~12.0.2"
   },
