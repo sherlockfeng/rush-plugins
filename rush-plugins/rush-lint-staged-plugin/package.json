@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@rushstack/node-core-library": "3.44.1",
-    "lint-staged": "12.3.4"
+    "lint-staged": "15.4.1"
   },
   "devDependencies": {
     "@rushstack/eslint-config": "2.4.5",
